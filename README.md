@@ -68,7 +68,7 @@ if ack:
     print(ack)
 c.close()
 ```
-# Output:
+## Output:
 ![image](https://github.com/user-attachments/assets/23cd6a92-4b43-4440-aa73-d92d46266765)
 
 # SERVER:
